@@ -1,0 +1,24 @@
+{
+  "name": "bamazon_hw12",
+  "version": "1.0.0",
+  "description": "Bamazon \"amazon like store\" homework",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mlusso06/bamazon_Hw12.git"
+  },
+  "author": "Mlusso06",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mlusso06/bamazon_Hw12/issues"
+  },
+  "homepage": "https://github.com/Mlusso06/bamazon_Hw12#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.0.6",
+    "mysql": "^2.18.1"
+  }
+}
