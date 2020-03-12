@@ -93,7 +93,7 @@ function startShopping() {
   });
 
 };
-startShopping();
+// startShopping();
 
 // ask the customer if they want to shop
 function continueShopping() {
